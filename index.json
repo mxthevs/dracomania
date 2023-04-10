@@ -5,7 +5,8 @@
     "canBeHolo": true,
     "magic": 22,
     "power": 26,
-    "fire": 29
+    "fire": 29,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/1.jpg"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "canBeHolo": true,
     "magic": 16,
     "power": 24,
-    "fire": 28
+    "fire": 28,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/2.jpg"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "canBeHolo": true,
     "magic": 15,
     "power": 21,
-    "fire": 27
+    "fire": 27,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/3.jpg"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "canBeHolo": true,
     "magic": 14,
     "power": 20,
-    "fire": 26
+    "fire": 26,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/4.jpg"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "canBeHolo": true,
     "magic": 13,
     "power": 19,
-    "fire": 25
+    "fire": 25,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/5.jpg"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "canBeHolo": true,
     "magic": 21,
     "power": 15,
-    "fire": 22
+    "fire": 22,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/6.jpg"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "canBeHolo": true,
     "magic": 19,
     "power": 17,
-    "fire": 24
+    "fire": 24,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/7.jpg"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "canBeHolo": true,
     "magic": 20,
     "power": 16,
-    "fire": 23
+    "fire": 23,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/8.jpg"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "canBeHolo": true,
     "magic": 18,
     "power": 13,
-    "fire": 21
+    "fire": 21,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/9.jpg"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "canBeHolo": true,
     "magic": 17,
     "power": 14,
-    "fire": 20
+    "fire": 20,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/10.jpg"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "canBeHolo": false,
     "magic": 5,
     "power": 23,
-    "fire": 11
+    "fire": 11,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/11.jpg"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "canBeHolo": false,
     "magic": 0,
     "power": 30,
-    "fire": 0
+    "fire": 0,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/12.jpg"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "canBeHolo": false,
     "magic": 28,
     "power": 2,
-    "fire": 19
+    "fire": 19,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/13.jpg"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "canBeHolo": false,
     "magic": 5,
     "power": 22,
-    "fire": 9
+    "fire": 9,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/14.jpg"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "canBeHolo": false,
     "magic": 4,
     "power": 25,
-    "fire": 8
+    "fire": 8,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/15.jpg"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "canBeHolo": false,
     "magic": 12,
     "power": 27,
-    "fire": 15
+    "fire": 15,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/16.jpg"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "canBeHolo": false,
     "magic": 11,
     "power": 18,
-    "fire": 10
+    "fire": 10,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/17.jpg"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "canBeHolo": false,
     "magic": 29,
     "power": 4,
-    "fire": 17
+    "fire": 17,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/18.jpg"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "canBeHolo": false,
     "magic": 30,
     "power": 0,
-    "fire": 0
+    "fire": 0,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/19.jpg"
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "canBeHolo": false,
     "magic": 9,
     "power": 9,
-    "fire": 3
+    "fire": 3,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/20.jpg"
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "canBeHolo": false,
     "magic": 23,
     "power": 12,
-    "fire": 12
+    "fire": 12,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/21.jpg"
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "canBeHolo": false,
     "magic": 26,
     "power": 5,
-    "fire": 18
+    "fire": 18,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/22.jpg"
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "canBeHolo": false,
     "magic": 8,
     "power": 7,
-    "fire": 1
+    "fire": 1,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/23.jpg"
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "canBeHolo": false,
     "magic": 3,
     "power": 29,
-    "fire": 5
+    "fire": 5,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/24.jpg"
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "canBeHolo": false,
     "magic": 2,
     "power": 28,
-    "fire": 6
+    "fire": 6,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/25.jpg"
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "canBeHolo": false,
     "magic": 27,
     "power": 3,
-    "fire": 16
+    "fire": 16,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/26.jpg"
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "canBeHolo": false,
     "magic": 25,
     "power": 6,
-    "fire": 14
+    "fire": 14,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/27.jpg"
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "canBeHolo": false,
     "magic": 24,
     "power": 1,
-    "fire": 7
+    "fire": 7,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/28.jpg"
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "canBeHolo": false,
     "magic": 0,
     "power": 0,
-    "fire": 30
+    "fire": 30,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/29.jpg"
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "canBeHolo": false,
     "magic": 7,
     "power": 8,
-    "fire": 2
+    "fire": 2,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/30.jpg"
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "canBeHolo": false,
     "magic": 1,
     "power": 10,
-    "fire": 4
+    "fire": 4,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/31.jpg"
   },
   {
     "id": 32,
@@ -253,6 +284,7 @@
     "canBeHolo": false,
     "magic": 10,
     "power": 11,
-    "fire": 13
+    "fire": 13,
+    "imageUrl": "https://raw.githubusercontent.com/mxthevs/dracomania/main/cards/32.jpg"
   }
 ]
