@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "name": "Dragão Mestre",
+    "canBeHolo": true,
+    "magic": 22,
+    "power": 26,
+    "fire": 29
+  },
+  {
+    "id": 2,
+    "name": "Dragão Dourado",
+    "canBeHolo": true,
+    "magic": 16,
+    "power": 24,
+    "fire": 28
+  },
+  {
+    "id": 3,
+    "name": "Dragão Prateado",
+    "canBeHolo": true,
+    "magic": 15,
+    "power": 21,
+    "fire": 27
+  },
+  {
+    "id": 4,
+    "name": "Dragão Bronze",
+    "canBeHolo": true,
+    "magic": 14,
+    "power": 20,
+    "fire": 26
+  },
+  {
+    "id": 5,
+    "name": "Dragão Cobre",
+    "canBeHolo": true,
+    "magic": 13,
+    "power": 19,
+    "fire": 25
+  },
+  {
+    "id": 6,
+    "name": "Dragão Branco",
+    "canBeHolo": true,
+    "magic": 21,
+    "power": 15,
+    "fire": 22
+  },
+  {
+    "id": 7,
+    "name": "Dragão Negro",
+    "canBeHolo": true,
+    "magic": 19,
+    "power": 17,
+    "fire": 24
+  },
+  {
+    "id": 8,
+    "name": "Dragão Vermelho",
+    "canBeHolo": true,
+    "magic": 20,
+    "power": 16,
+    "fire": 23
+  },
+  {
+    "id": 9,
+    "name": "Dragão Azul",
+    "canBeHolo": true,
+    "magic": 18,
+    "power": 13,
+    "fire": 21
+  },
+  {
+    "id": 10,
+    "name": "Dragão Verde",
+    "canBeHolo": true,
+    "magic": 17,
+    "power": 14,
+    "fire": 20
+  },
+  {
+    "id": 11,
+    "name": "Cavaleiro",
+    "canBeHolo": false,
+    "magic": 5,
+    "power": 23,
+    "fire": 11
+  },
+  {
+    "id": 12,
+    "name": "Colosso",
+    "canBeHolo": false,
+    "magic": 0,
+    "power": 30,
+    "fire": 0
+  },
+  {
+    "id": 13,
+    "name": "Feiticeira",
+    "canBeHolo": false,
+    "magic": 28,
+    "power": 2,
+    "fire": 19
+  },
+  {
+    "id": 14,
+    "name": "Guerreira",
+    "canBeHolo": false,
+    "magic": 5,
+    "power": 22,
+    "fire": 9
+  },
+  {
+    "id": 15,
+    "name": "Guerreiro",
+    "canBeHolo": false,
+    "magic": 4,
+    "power": 25,
+    "fire": 8
+  },
+  {
+    "id": 16,
+    "name": "Herói",
+    "canBeHolo": false,
+    "magic": 12,
+    "power": 27,
+    "fire": 15
+  },
+  {
+    "id": 17,
+    "name": "Lobisomem",
+    "canBeHolo": false,
+    "magic": 11,
+    "power": 18,
+    "fire": 10
+  },
+  {
+    "id": 18,
+    "name": "Mago",
+    "canBeHolo": false,
+    "magic": 29,
+    "power": 4,
+    "fire": 17
+  },
+  {
+    "id": 19,
+    "name": "Merlin",
+    "canBeHolo": false,
+    "magic": 30,
+    "power": 0,
+    "fire": 0
+  },
+  {
+    "id": 20,
+    "name": "Múmia",
+    "canBeHolo": false,
+    "magic": 9,
+    "power": 9,
+    "fire": 3
+  },
+  {
+    "id": 21,
+    "name": "Pegasus",
+    "canBeHolo": false,
+    "magic": 23,
+    "power": 12,
+    "fire": 12
+  },
+  {
+    "id": 22,
+    "name": "Sacerdote",
+    "canBeHolo": false,
+    "magic": 26,
+    "power": 5,
+    "fire": 18
+  },
+  {
+    "id": 23,
+    "name": "Sombra",
+    "canBeHolo": false,
+    "magic": 8,
+    "power": 7,
+    "fire": 1
+  },
+  {
+    "id": 24,
+    "name": "Bárbaro",
+    "canBeHolo": false,
+    "magic": 3,
+    "power": 29,
+    "fire": 5
+  },
+  {
+    "id": 25,
+    "name": "Viking",
+    "canBeHolo": false,
+    "magic": 2,
+    "power": 28,
+    "fire": 6
+  },
+  {
+    "id": 26,
+    "name": "Bruxa",
+    "canBeHolo": false,
+    "magic": 27,
+    "power": 3,
+    "fire": 16
+  },
+  {
+    "id": 27,
+    "name": "Elfo",
+    "canBeHolo": false,
+    "magic": 25,
+    "power": 6,
+    "fire": 14
+  },
+  {
+    "id": 28,
+    "name": "Anjo",
+    "canBeHolo": false,
+    "magic": 24,
+    "power": 1,
+    "fire": 7
+  },
+  {
+    "id": 29,
+    "name": "Gigante de Lava",
+    "canBeHolo": false,
+    "magic": 0,
+    "power": 0,
+    "fire": 30
+  },
+  {
+    "id": 30,
+    "name": "Esqueleto",
+    "canBeHolo": false,
+    "magic": 7,
+    "power": 8,
+    "fire": 2
+  },
+  {
+    "id": 31,
+    "name": "Ogro",
+    "canBeHolo": false,
+    "magic": 1,
+    "power": 10,
+    "fire": 4
+  },
+  {
+    "id": 32,
+    "name": "Unicórnio",
+    "canBeHolo": false,
+    "magic": 10,
+    "power": 11,
+    "fire": 13
+  }
+]
